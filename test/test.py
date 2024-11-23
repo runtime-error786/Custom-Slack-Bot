@@ -8,8 +8,8 @@ from langchain.docstore.document import Document
 from langchain.prompts import PromptTemplate
 from langchain_community.chat_models import ChatOllama
 from langchain_core.output_parsers import JsonOutputParser
-os.environ["TAVILY_API_KEY"] = "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"
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["TAVILY_API_KEY"] = ""
+os.environ["GROQ_API_KEY"] = ""
 
 
 
