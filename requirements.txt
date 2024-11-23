@@ -1,0 +1,12 @@
+langchain_community
+tiktoken
+langchain-openai
+langchainhub
+chromadb
+langchain
+langgraph
+tavily-python
+langchain-groq
+langchain_huggingface
+langchain_community
+slack-sdk
